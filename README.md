@@ -67,6 +67,23 @@ OnlineLearningPlatform
 ├── web-lessons.html
 ├── certificate.html
 │
-└── backend
+└── backend## Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Course Page
+![Course Page](screenshots/course-page.png)
+
+### My Courses
+![My Courses](screenshots/my-courses.png)
+
+### Lessons
+![Lessons](screenshots/lessons.png)
+
+### Certificate
+![Certificate](screenshots/certificate.png)
+
     ├── pom.xml
     └── src
+
